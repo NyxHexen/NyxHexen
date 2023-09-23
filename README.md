@@ -4,9 +4,7 @@ I am a Full-Stack Web Developer graduate, currently looking for a new position. 
 
 I am currently focusing on improving my understanding of development and programming languages, and learning the MERN stack.
 
----
-
-[![NyxHexen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxhexen)](https://github.com/anuraghazra/github-readme-stats)
+[![NyxHexen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxhexen&theme=ocean_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
