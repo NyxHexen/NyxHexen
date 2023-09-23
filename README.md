@@ -2,11 +2,23 @@
 
 I am a Full-Stack Web Developer graduate, currently looking for a new position. In the past I have worked as a hospitality manager and IT support, currently Senior Administrator and SME for an insurance company.
 
-I am currently focusing on improving my understanding of development and programming languages, and learning the MERN stack.
+I am currently focusing on improving my understanding of development and programming languages, and learning the MERN stack. When I am not coding you will most likely find me playing video games.
 
 [![NyxHexen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxhexen&theme=ocean_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Skills I am (or plan on) learning
+
+### Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
+
+### Plan on Learning
+![Angular](https://img.shields.io/badge/angular-logo?style=for-the-badge&logo=angular&color=ffffff&logoColor=DD0031)
+![.NET](https://img.shields.io/badge/.net-logo?style=for-the-badge&logo=.NET&logoColor=512BD4&color=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-logo?style=for-the-badge&logo=tailwindcss&logoColor=ffffff&color=06B6D4)
+
+
+## My Current Skillset
 
 ### Programming Languages
 
